@@ -33,5 +33,30 @@ body{
 	background-repeat: no-repeat;
 	background-size: 75%;
 	background-position:;
+	background-color: black;
+} 
+
+h2 {
+	text-align: center;
+	color: whitesmoke;
+	text-shadow: 1px 1px yellow;
+  font-family: "Spectral SC", serif;
+  font-weight: 400;
+  font-style: normal;;
 }
+
+.navbar-brand {
+	font-family: "Spectral SC", serif;font-family: "Spectral SC", serif;
+}
+
+button {
+	color: whitesmoke;
+	background-color: darkred;
+	border-radius: 8px;
+	border: none;
+	position: center;
+	padding: 15px 32px;
+	text-align: center;
+}
+
 
