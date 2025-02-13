@@ -29,9 +29,10 @@
 }
 
 body{
-	background-image:url("Gapelii Juneteenth Logo (1).png") ;
+	background-image:url("wallpaper2you_137126.jpg") ;
+	background-image: url('Be Legendary Logo.png');
 	background-repeat: no-repeat;
-	background-size: 75%;
+	background-size: 105%;
 	background-position:;
 	background-color: black;
 } 
@@ -57,6 +58,11 @@ button {
 	position: center;
 	padding: 15px 32px;
 	text-align: center;
+}
+
+.Legendary {
+	
+	width: 100%;
 }
 
 
