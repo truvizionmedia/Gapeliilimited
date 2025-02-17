@@ -14,7 +14,7 @@
 .card button {
 	border: none;
 	outline: 0;
-	padding: 12px;
+	padding: 15px;
 	color: white;
 	background-color: #000;
 	text-align: center;
@@ -28,22 +28,21 @@
 	color: yellow;
 }
 
-body{
-	background-image:url("wallpaper2you_137126.jpg") ;
-	background-image: url('Be Legendary Logo.png');
+body {
+	background-image: url("Martin_Luther_King_press_conference_01269u_edit.jpg");
 	background-repeat: no-repeat;
 	background-size: 105%;
 	background-position:;
 	background-color: black;
-} 
+	}
 
 h2 {
 	text-align: center;
 	color: whitesmoke;
-	text-shadow: 1px 1px yellow;
+	text-shadow: 2px 2px black;
   font-family: "Spectral SC", serif;
   font-weight: 400;
-  font-style: normal;;
+  font-style: normal;
 }
 
 .navbar-brand {
@@ -65,4 +64,28 @@ button {
 	width: 100%;
 }
 
+.contact-button {
+	display: flex;
+	justify-content: center;
+	margin: 25px;
+}
+
+.Gapeliilogo {
+	display: flex;
+	justify-content: center;
+	border-radius: 10%;
+}
+
+img {
+	border-radius: 200px;
+}
+
+.container-fluid-2 {
+	background-color: black;
+	height: 200px;
+	margin-bottom: 100px;
+	padding-bottom: 30px;
+	opacity: ;
+	background: rgba(0, 0, 0, 1.0);
+}
 
